@@ -1,0 +1,72 @@
+[
+    {
+       "nombre":"Joaquin",
+       "apellido":"Duarte",
+       "numComprobante":1,
+       "periodo": "Octubre",
+       "vencimiento": "27/05/2023"
+    },
+    {
+        "nombre":"Juan Cruz",
+        "apellido":"Ala",
+        "numComprobante":2,
+        "periodo": "Mayo",
+        "vencimiento": "27/07/2023"
+    },
+    {
+        "nombre":"Ilan",
+        "apellido":"Martinez",
+        "numComprobante":3,
+        "periodo": "Noviembre",
+        "vencimiento": "22/02/2023"
+    },
+    {
+        "nombre":"Felipe",
+        "apellido":"Rodriguez",
+        "numComprobante":4,
+        "periodo": "Diciembre",
+        "vencimiento": "15/05/2023"
+     },
+     {
+         "nombre":"Juan",
+         "apellido":"Errandonea",
+         "numComprobante":5,
+         "periodo": "Noviembre",
+         "vencimiento": "17/05/2023"
+     },
+     {
+         "nombre":"Bautista",
+         "apellido":"Jaurena",
+         "numComprobante":6,
+         "periodo": "Diciembre",
+         "vencimiento": "05/02/2023"
+     },
+     {
+        "nombre":"Ignacio",
+        "apellido":"Caldeiro",
+        "numComprobante":7,
+        "periodo": "Diciembre",
+        "vencimiento": "11/03/2023"
+     },
+     {
+         "nombre":"Ignacio",
+         "apellido":"Donnarumma",
+         "numComprobante":8,
+         "periodo": "Agosto",
+         "vencimiento": "16/09/2023"
+     },
+     {
+         "nombre":"Sofia",
+         "apellido":"Zilberberg",
+         "numComprobante":9,
+         "periodo": "Marzo",
+         "vencimiento": "13/06/2023"
+     },
+     {
+        "nombre":"Lucio",
+        "apellido":"Zarantonello",
+        "numComprobante":10,
+        "periodo": "Febrero",
+        "vencimiento": "27/11/2023"
+    }
+ ]

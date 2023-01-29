@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mensajeError{
+    color: red;
+    font-size: larger;
+}
+
+.mensajeOkey{
+    color: green;
+    font-size: larger;
+}
